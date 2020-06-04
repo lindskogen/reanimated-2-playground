@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "react-native-reanimated": {
+      "signature": "3d218027923b4f64284f2f2110872581",
+      "file": true,
+      "replaced": "^2.0.0-alpha.1"
+    }
+  }
+}

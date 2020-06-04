@@ -1,6 +1,6 @@
 import {StatusBar, View} from 'react-native';
 import React from 'react';
-import {Stories} from './InstagramStories';
+import {Discovery} from './SnapchatDiscovery';
 
 export default function AnimatedStyleUpdateExample() {
   return (
@@ -11,7 +11,7 @@ export default function AnimatedStyleUpdateExample() {
         flexDirection: 'column',
       }}>
       <StatusBar barStyle={'light-content'} />
-      <Stories />
+      <Discovery />
     </View>
   );
 }
